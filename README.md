@@ -12,6 +12,9 @@
   - Video Games 
   - Cooking
 
+## Plans
+- I hope to get a job working as a Penetration Tester
+
 ## Notes 
 ### Bash
 #### tr
@@ -32,8 +35,6 @@
 - this command prints out a file to stdout 
 - can be used to send full files to stdin (>) 
 
-## Plans
-- I hope to get a job working as a Penetration Tester
 ## Links
 - [Linkedin](https://www.linkedin.com/in/devin-ingersoll/)  
 - [Shell data project](https://github.com/deviningers/shell-big-date)
